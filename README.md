@@ -1,4 +1,4 @@
-# Credit_Score_Prediction_202401100300026
+# Credit_Score_Prediction
 
 ## 📌 Overview
 Credit Score Prediction is a machine learning project aimed at predicting an individual's credit score based on various financial and personal attributes. This tool can help financial institutions assess creditworthiness and make informed lending decisions.
